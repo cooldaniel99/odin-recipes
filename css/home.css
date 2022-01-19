@@ -1,0 +1,27 @@
+.mac.cheese {
+    width: 400px;
+    height: auto;
+   text-align: center;
+   display: block;
+
+}
+
+.mac.roper {
+    color: tan;
+    background: rgba(143, 76, 21, 0.979);
+    text-align: center;
+
+}
+
+.mac.home {
+    text-align: left;
+    color: black;
+    background: lightskyblue;
+
+}
+
+
+* {
+    background: salmon;
+    font-family: 'Times New Roman' 'Helvetica' sans-serif;
+}
