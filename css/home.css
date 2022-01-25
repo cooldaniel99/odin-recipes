@@ -1,27 +1,54 @@
 .mac.cheese {
     width: 400px;
     height: auto;
-   text-align: center;
-   display: block;
-
 }
 
-.mac.roper {
+h1 {
     color: tan;
     background: rgba(143, 76, 21, 0.979);
     text-align: center;
-
-}
-
-.mac.home {
-    text-align: left;
-    color: black;
-    background: lightskyblue;
+    border-radius: 10%;
+    padding: 3px 0px 3px 0px;
 
 }
 
 
 * {
     background: salmon;
-    font-family: 'Times New Roman' 'Helvetica' sans-serif;
+    font-family: 'Times New Roman', 'Helvetica', sans-serif;
+}
+
+nav {
+    display: inline-flex;
+    color: black;
+    gap: 8px;
+    flex: 1 1 auto;
+    justify-content: left;
+    flex-direction: row;
+
+    
+
+}
+
+.flex-first {
+   
+}
+
+.mac.gone,.mac.home {
+    border: 1px solid black;
+    background: lightskyblue;
+    padding: 10px 20px 10px 20px;
+    border-radius: 50%;
+    margin: 3px 2px 0px 2px;
+
+}
+
+img {
+   
+    height: 300px;
+   width: auto;
+   margin: 50px 0px 50px 365px;
+   
+  
+
 }
