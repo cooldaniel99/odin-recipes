@@ -1,0 +1,36 @@
+ * {
+     margin: 0;
+     padding: 0;
+     font-family: Arial, Helvetica, sans-serif;
+ }
+
+ .navbar {
+    display: flex; 
+    flex-direction: row;
+    padding: 15px 25px 15px 25px;
+     background: rgb(68, 133, 253);
+     color: white;
+     font-weight: 800;
+     flex: 1;
+     width: ;
+     
+ }
+
+
+
+ .flexbox {
+order: 1
+ }
+
+ .home {
+    order: 2
+     }
+
+     .about {
+        order: 3
+         }
+
+         .contact {
+            order: 4
+             }
+ 

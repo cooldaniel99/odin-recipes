@@ -35,7 +35,7 @@ nav {
 }
 
 .mac.gone,.mac.home {
-    border: 1px solid black;
+    border: 2px solid black;
     background: lightskyblue;
     padding: 10px 20px 10px 20px;
     border-radius: 50%;
